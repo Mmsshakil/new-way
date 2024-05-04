@@ -1,4 +1,12 @@
 
+// this is call metadata for perticularly for this page
+export const metadata = {
+    title: "Contact",
+    description: "This is contact page",
+};
+
+
+
 const Layout = ({ children }) => {
     return (
         <div>
